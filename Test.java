@@ -4,11 +4,18 @@ class  Test
 {
   public static void main(String []args)
   {
-   Scanner sc=new Scanner(System.in);
-   int a=sc.nextInt();
+   int a=3
    if(a>0)
    {
    System.out.println("positive");
    }
+    else if(a<0)
+    {
+      System.out.println("negitive");
+    }
+      else if(a==3)
+      {
+        System.out.println("zero");
+      }
    }
    }
