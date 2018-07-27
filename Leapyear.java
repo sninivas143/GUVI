@@ -55,3 +55,5 @@ class Leapyear
             System.out.println("Year "+year+" is not a Leap Year");
 
         }
+  }
+}
