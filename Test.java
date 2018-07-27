@@ -13,7 +13,7 @@ class  Test
     {
       System.out.println("negitive");
     }
-      else if(a==3)
+      else if(a==0)
       {
         System.out.println("zero");
       }
