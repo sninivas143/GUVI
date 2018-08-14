@@ -7,7 +7,7 @@ class Arraymin
 	{
 		int small, size, i;
        int arr[] = new int[50];
-       Scanner scan = new Scanner(System.in)
+       Scanner scan = new Scanner(System.in);
        size = scan.nextInt();
 	          for(i=0; i<size; i++)
        {
